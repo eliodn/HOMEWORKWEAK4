@@ -12,6 +12,13 @@ root.render(
     <div className="App">
       <h1>Weather App</h1>
       <WeatherSearch />
+      <br />
+      <small>
+        <a href="https://github.com/eliodn/HOMEWORKWEAK4" target="blank">
+          Open-sourced code
+        </a>{" "}
+        by Lola Bourgeot
+      </small>
     </div>
   </StrictMode>
 );
